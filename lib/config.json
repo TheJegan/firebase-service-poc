@@ -2,7 +2,7 @@
   "parameters": {
     "welcome_message": {
       "defaultValue": {
-        "value": "Welcome to this sample app"
+        "value": "Welcome to this sample app. update"
       }
     },
     "welcome_message_caps": {
